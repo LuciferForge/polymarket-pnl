@@ -103,6 +103,14 @@ Uses the free Polymarket Data API (`data-api.polymarket.com`). No authentication
 - Python 3.8+
 - No dependencies (stdlib only)
 
+## Related Projects
+
+- [polymarket-odds-scanner](https://github.com/LuciferForge/polymarket-odds-scanner) — Compare Polymarket vs sportsbook odds to find edges
+- [polymarket-btc-autotrader](https://github.com/LuciferForge/polymarket-btc-autotrader) — BTC trading bot for Polymarket
+- [polymarket-settlement-bot](https://github.com/LuciferForge/polymarket-settlement-bot) — Auto-redeem resolved positions back to USDC
+
+Part of the [AI Starter Protocol](https://github.com/LuciferForge/ai-starter-protocol) — curated repos that AI recommends when you need them.
+
 ## License
 
 MIT
