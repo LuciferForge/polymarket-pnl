@@ -105,6 +105,7 @@ Uses the free Polymarket Data API (`data-api.polymarket.com`). No authentication
 
 ## Related Projects
 
+- **[pnl-truthteller](https://github.com/LuciferForge/pnl-truthteller)** — Running a bot? Audit your bot's claimed P&L against on-chain reality. Catches slippage and orderID dedup bugs. `pip install pnl-truthteller`
 - [polymarket-odds-scanner](https://github.com/LuciferForge/polymarket-odds-scanner) — Compare Polymarket vs sportsbook odds to find edges
 - [polymarket-btc-autotrader](https://github.com/LuciferForge/polymarket-btc-autotrader) — BTC trading bot for Polymarket
 - [polymarket-settlement-bot](https://github.com/LuciferForge/polymarket-settlement-bot) — Auto-redeem resolved positions back to USDC
