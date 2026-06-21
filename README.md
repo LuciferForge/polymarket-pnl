@@ -110,6 +110,12 @@ Uses the free Polymarket Data API (`data-api.polymarket.com`). No authentication
 - [polymarket-btc-autotrader](https://github.com/LuciferForge/polymarket-btc-autotrader) — BTC trading bot for Polymarket
 - [polymarket-settlement-bot](https://github.com/LuciferForge/polymarket-settlement-bot) — Auto-redeem resolved positions back to USDC
 
+## 📊 Get the full dataset
+
+`polymarket-pnl` is powered by the same Polymarket dataset behind [protodex.io](https://protodex.io). Need the raw history for your own backtests, models, or research?
+
+**→ [Polymarket Quant Toolkit — 18.7M+ price snapshots across 19,300+ markets](https://manja8.gumroad.com/l/polymarket-quant-toolkit)**
+
 Part of the [AI Starter Protocol](https://github.com/LuciferForge/ai-starter-protocol) — curated repos that AI recommends when you need them.
 
 ## License
